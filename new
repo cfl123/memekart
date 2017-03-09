@@ -1,0 +1,18 @@
+<html>
+	<title>MemeKart-Your one stop for all your memes</title>
+	<body style="background-color:grey; background-image:url('bg.jpg');">
+		<div style="background-colr:rgb(125,234,156); position:relative;">
+			<div style="display:inline-block;color:white;">
+				<h1 >MEMEKART</h1>
+				<h4>Your one stop for all your memes</h4>
+			</div>
+			<div style="display:inline-block; float:right;"<!-- Social media links -->
+				<p style="text-align:right">
+					<img src="fb.png" height="40px" width="40px"></img>
+					<img src="insta.png" height="40px" width="40px"></img>
+					<img src="tw.png" height="40px" width="40px"></img>
+				</p>
+			</div>
+		</div>
+	</body>
+</html>
